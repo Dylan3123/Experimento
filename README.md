@@ -1,3 +1,2 @@
-# Experimento
-El siguiente proyecto es de prueba
-Estoy escribiendo dentro de README.md
+# Pagina Principal
+Aca iria toda la información relevante de mi perfil
